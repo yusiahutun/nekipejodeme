@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nekipejodeme.pages.dev/sitemap.xml
